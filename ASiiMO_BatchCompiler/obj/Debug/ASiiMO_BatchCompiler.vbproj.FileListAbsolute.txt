@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.Form1.resources
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.exe
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.pdb
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\bin\Debug\ASiiMO_BatchCompiler.exe.config
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\bin\Debug\ASiiMO_BatchCompiler.exe
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\bin\Debug\ASiiMO_BatchCompiler.pdb
+C:\Users\MONSTERMC\Downloads\b2executable-master\b2executable-master\ASiiMO_BatchCompiler\obj\Debug\ASiiMO_BatchCompiler.vbproj.AssemblyReference.cache
